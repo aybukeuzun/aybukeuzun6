@@ -1,0 +1,15 @@
+C:\Users\iremd\source\repos\aybukeuzun6\aybukeuzun6\bin\Debug\net6.0\aybukeuzun6.exe
+C:\Users\iremd\source\repos\aybukeuzun6\aybukeuzun6\bin\Debug\net6.0\aybukeuzun6.deps.json
+C:\Users\iremd\source\repos\aybukeuzun6\aybukeuzun6\bin\Debug\net6.0\aybukeuzun6.runtimeconfig.json
+C:\Users\iremd\source\repos\aybukeuzun6\aybukeuzun6\bin\Debug\net6.0\aybukeuzun6.dll
+C:\Users\iremd\source\repos\aybukeuzun6\aybukeuzun6\bin\Debug\net6.0\aybukeuzun6.pdb
+C:\Users\iremd\source\repos\aybukeuzun6\aybukeuzun6\obj\Debug\net6.0\aybukeuzun6.csproj.AssemblyReference.cache
+C:\Users\iremd\source\repos\aybukeuzun6\aybukeuzun6\obj\Debug\net6.0\aybukeuzun6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iremd\source\repos\aybukeuzun6\aybukeuzun6\obj\Debug\net6.0\aybukeuzun6.AssemblyInfoInputs.cache
+C:\Users\iremd\source\repos\aybukeuzun6\aybukeuzun6\obj\Debug\net6.0\aybukeuzun6.AssemblyInfo.cs
+C:\Users\iremd\source\repos\aybukeuzun6\aybukeuzun6\obj\Debug\net6.0\aybukeuzun6.csproj.CoreCompileInputs.cache
+C:\Users\iremd\source\repos\aybukeuzun6\aybukeuzun6\obj\Debug\net6.0\aybukeuzun6.dll
+C:\Users\iremd\source\repos\aybukeuzun6\aybukeuzun6\obj\Debug\net6.0\refint\aybukeuzun6.dll
+C:\Users\iremd\source\repos\aybukeuzun6\aybukeuzun6\obj\Debug\net6.0\aybukeuzun6.pdb
+C:\Users\iremd\source\repos\aybukeuzun6\aybukeuzun6\obj\Debug\net6.0\aybukeuzun6.genruntimeconfig.cache
+C:\Users\iremd\source\repos\aybukeuzun6\aybukeuzun6\obj\Debug\net6.0\ref\aybukeuzun6.dll
